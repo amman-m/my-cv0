@@ -12,3 +12,7 @@ Yeah, this is another paragraph.
   some text about it.
 - Second item
   some text also about it.
+
+  1. Hello this about me.
+2. I'm a great blogger.
+3. I write on medium.
