@@ -42,3 +42,6 @@ ping -t www.google.com
 
 **bold text denoting it's something important**
 __another bold text__
+
+*italic*
+_italic_
