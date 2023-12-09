@@ -36,3 +36,6 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
 3. I write on medium.
   
   > Make it simple not simpler.  -- Albert Einstein
+
+  # ping on google server (bash script)
+ping -t www.google.com
