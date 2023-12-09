@@ -39,3 +39,6 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
 
   # ping on google server (bash script)
 ping -t www.google.com
+
+**bold text denoting it's something important**
+__another bold text__
