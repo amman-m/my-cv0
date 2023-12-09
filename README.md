@@ -25,3 +25,9 @@ Yeah, this is another paragraph.
 ###### smallest heading
 
 I read a lot and also write some cool blogs. You can read [My blog](https://medium.com/itsjzt) here.
+
+- first item
+  some text about it.
+- Second item
+  some text also about it.
+  
