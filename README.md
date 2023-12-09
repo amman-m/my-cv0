@@ -16,3 +16,10 @@ Yeah, this is another paragraph.
   1. Hello this about me.
 2. I'm a great blogger.
 3. I write on medium.
+
+# Main Heading 
+## Sub Heading
+### may be used as topic heading
+#### sub-topic headings
+##### another heading
+###### smallest heading
