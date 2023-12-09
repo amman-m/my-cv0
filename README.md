@@ -35,3 +35,4 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
 2. I'm a great blogger.
 3. I write on medium.
   
+  > Make it simple not simpler.  -- Albert Einstein
