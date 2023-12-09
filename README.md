@@ -23,3 +23,5 @@ Yeah, this is another paragraph.
 #### sub-topic headings
 ##### another heading
 ###### smallest heading
+
+I read a lot and also write some cool blogs. You can read [My blog](https://medium.com/itsjzt) here.
