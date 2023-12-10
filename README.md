@@ -45,3 +45,10 @@ __another bold text__
 
 *italic*
 _italic_
+
+# Main Heading 
+## Sub Heading
+### may be used as topic heading
+#### sub-topic headings
+##### another heading
+###### smallest heading
