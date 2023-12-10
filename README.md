@@ -30,6 +30,7 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
   some text about it.
 - Second item
   some text also about it.
+  
 
   1. Hello this about me.
 2. I'm a great blogger.
